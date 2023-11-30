@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashjainNEU
+- 👋 Hi, I’m @YashJain
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning React and Java
 - 💞️ I’m looking to collaborate on Frontend and Backend development
