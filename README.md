@@ -32,7 +32,7 @@ I enjoy turning ideas into production-ready software — whether it's designing 
 - Gen AI and LLMs for Data Engineering
 - Program Structures and Algorithms
 
-### 2. Bachelor of Engineering in Information Technology, University of Mumbai (Aug 2018 - June 2022)
+### 2. Bachelor of Engineering in Computer Science, Rajiv Gandhi Proudyogiki Vishwavidyalaya (Aug 2014 - June 2018)
 
 #### Relevant Coursework:
 - Advanced Data Management Technology
