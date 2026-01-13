@@ -13,8 +13,8 @@ I enjoy turning ideas into production-ready software — whether it's designing 
 | Role | Company | Location | Duration |
 |------|---------|----------|----------|
 | Software Engineering Co-op | Atlas SP Partners | Raleigh, NC, USA | Jan 2025 – Aug 2025 |
-| Software Engineer Associate | Cognizant Technology Solutions | India | Apr 2021 – Aug 2023 |
-| Software Engineer | Cyber Infrastructure Pvt. Ltd. | India | Jun 2019 – Mar 2021 |
+| Software Engineer Associate | Cognizant Technology Solutions | Bengaluru, India | Apr 2021 – Aug 2023 |
+| Software Engineer | Cyber Infrastructure Pvt. Ltd. | Indore, India | Jun 2018 – Mar 2021 |
 
 ---
 
