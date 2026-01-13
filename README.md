@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yash Jain
 
-A Software Engineer currently pursuing my Master's in Information Systems at Northeastern University, Boston. I'm passionate about building scalable enterprise applications and solving complex problems through clean, efficient code.
+A Software Engineer with a Master's in Information Systems from Northeastern University, Boston. I'm passionate about building scalable enterprise applications and solving complex problems through clean, efficient code.
 
 I enjoy turning ideas into production-ready software — whether it's designing event-driven architectures, building full-stack SaaS products, or optimizing systems for performance. I thrive in collaborative environments and take pride in writing code that's both functional and maintainable.
 
@@ -12,19 +12,40 @@ I enjoy turning ideas into production-ready software — whether it's designing 
 
 | Role | Company | Location | Duration |
 |------|---------|----------|----------|
-| Software Engineering Co-op | Atlas SP Partners | Raleigh, NC | Jan 2025 – Aug 2025 |
+| Software Engineering Co-op | Atlas SP Partners | Raleigh, NC, USA | Jan 2025 – Aug 2025 |
 | Software Engineer Associate | Cognizant Technology Solutions | India | Apr 2021 – Aug 2023 |
 | Software Engineer | Cyber Infrastructure Pvt. Ltd. | India | Jun 2019 – Mar 2021 |
 
 ---
 
-## 🎓 Education
+## **Education:**
 
-### Master of Science in Information Systems
-**Northeastern University, Boston** | Sep 2023 – Dec 2025
+### 1. Master of Science in Information Systems, Northeastern University : Boston (Sep 2023 - Dec 2025)
 
-### Bachelor's in Computer Science
-**India** | Graduated 2019
+#### Coursework:
+- Data Management and Database Design
+- Application Engineering and Development
+- Data Science Engineering Methods & Tools
+- Designing Advanced Data Architectures for Business Intelligence
+- Big Data Systems & Intelligence Analytics
+- Agile Software Development
+- Gen AI and LLMs for Data Engineering
+- Program Structures and Algorithms
+
+### 2. Bachelor of Engineering in Information Technology, University of Mumbai (Aug 2018 - June 2022)
+
+#### Relevant Coursework:
+- Advanced Data Management Technology
+- Data Mining and Business Intelligence
+- Database Management Systems
+- Big Data Analytics
+- Artificial Intelligence
+- Data Structures and Analysis
+- Cloud Computing and Services
+- Python Programming Lab
+- R Programming Lab
+- Management Information Systems
+- Project Management
 
 ---
 
